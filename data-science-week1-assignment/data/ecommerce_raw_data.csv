@@ -1,0 +1,358 @@
+Order ID,Customer ID,Product Name,Category,Quantity,Unit Price,Total Amount,Order Date,Payment Mode,Delivery Status,City
+ORD20001,CUST2148,water bottle sport,sports,3,2856.12,8568.36,17.12.2024,Debit Card,returned,calcutta
+ORD20002,CUST2124,nail polish set,beauty,4,515.1,2060.4,19-08-2024,credit card,Canceled,hyderabad
+ORD20003,CUST2120,football,sports,6,4768.05,28608.3,17-10-2024,credit card,cancelled,jaipur
+ORD20004,CUST2054,power bank,electronic,4,4715.61,18862.44,28-08-2024,credit card,cancelled,pune
+ORD20005,CUST2118,sweater,clothing,1,2288.34,2288.34,01-10-2024,debit card,returned,bangalore
+ORD20006,CUST2110,polo shirt,cloths,2,2487.58,4975.16,01.10.2024,Cash on Delivery,DELIVERED,jaipur
+ORD20007,CUST2079,water bottle sport,sports,6,5250.9,31505.4,22-07-2024,Credit Card,returned,hyderabad
+ORD20008,CUST2179,travel guide,books,5,4874.62,24373.1,11-12-2024,netbanking,DELIVERED,kolkata
+ORD20009,CUST2035,power bank,electronics,3,2312.61,6937.83,16.07.2024,COD,pending,hyderabad
+ORD20010,CUST2014,sweater,cloths,1,1752.68,1752.68,08-09-2024,Cash on Delivery,Shipped,pune
+ORD20011,CUST2134,football,sports,1,1755.51,1755.51,15-08-2024,Credit Card,Pending,unknown
+ORD20012,CUST2167,stuffed animal,toys,2,4766.01,9532.02,29-10-2024,COD,returned,hyderabad
+ORD20013,CUST2004,sweater,cloths,6,2249.61,13497.66,12-10-2024,netbanking,Delivered,kolkata
+ORD20014,CUST2055,track pants,clothing,3,816.4,2449.2,07-07-2024,netbanking,Shipped,hyderabad
+ORD20015,CUST2169,hair serum,beauty,4,3320.47,13281.88,09-20-2024,netbanking,shipped,chennai
+ORD20016,CUST2111,sweater,clothing,1,1551.86,1551.86,11-26-2024,Cash on Delivery,Canceled,mumbai
+ORD20017,CUST2141,sunscreen,beauty,4,5851.13,23404.52,06-12-2024,Credit Card,cancelled,jaipur
+ORD20018,CUST2070,skipping rope,sports,6,4851.16,29106.96,10-12-2024,Credit Card,pending,madras
+ORD20019,CUST2163,smart plug,electronics,4,2099.88,8399.52,unknown,Cash on Delivery,pending,pune
+ORD20020,CUST2067,power bank,electronics,2,3901.06,7802.12,14-11-2024,Debit Card,pending,kolkata
+ORD20021,CUST2044,face mask pack,beauty,2,323.11,646.22,18.08.2024,netbanking,Returned,kolkata
+ORD20021,CUST2044,face mask pack,beauty,2,323.11,646.22,18.08.2024,netbanking,Returned,kolkata
+ORD20022,CUST2151,stuffed animal,toys,5,5432.48,27162.4,25-11-2024,CREDIT CARD,delivered,delhi
+ORD20023,CUST2114,stuffed animal,toys,4,4547.94,18191.76,27-12-2024,credit card,shipped,mumbai
+ORD20024,CUST2076,air fryer,home & kitchen,6,4984.7,29908.2,15.12.2024,upi,DELIVERED,hyderabad
+ORD20025,CUST2008,rain jacket,cloths,2,2869.66,5739.32,21-08-2024,CREDIT CARD,returned,bangalore
+ORD20026,CUST2112,recipe book,books,1,4561.1,4561.1,08-18-2024,Credit Card,Shipped,madras
+ORD20027,CUST2067,hdmi cable,electronics ,3,3596.69,10790.07,17.12.2024,UPI,In Transit,jaipur
+ORD20028,CUST2067,skipping rope,sports,6,1880.74,11284.44,15-08-2024,UPI,Canceled,bombay
+ORD20029,CUST2011,air fryer,home & kitchen,1,2341.34,2341.34,03-11-2024,credit card,pending,bangalore
+ORD20030,CUST2176,nail polish set,beuty,3,5828.08,17484.24,24.08.2024,debit card,cancelled,bangalore
+ORD20031,CUST2132,nail polish set,beuty,2,2580.81,5161.62,12-11-2024,Credit Card,Returned,delhi
+ORD20032,CUST2178,kids storybook,books,6,2300.12,13800.72,12-09-2024,UPI,Canceled,kolkata
+ORD20033,CUST2113,face mask pack,beauty,1,3766.13,3766.13,01-11-2024,COD,Delivered,jaipur
+ORD20034,CUST2088,football,sports,1,3373,3373,29.08.2024,COD,In Transit,pune
+ORD20035,CUST2044,nail polish set,beauty,6,5025.61,30153.66,27-07-2024,CREDIT CARD,shipped,bengaluru
+ORD20036,CUST2032,rc helicopter,toys,5,3533.09,17665.45,21-12-2024,COD,returned,unknown
+ORD20037,CUST2035,bluetooth headset,electronics,1,3675.64,3675.64,01-11-2024,debit card,DELIVERED,bangalore
+ORD20038,CUST2040,kids storybook,book,1,1110.78,1110.78,20.07.2024,debit card,DELIVERED,mumbai
+ORD20039,CUST2082,power bank,electronics,2,5616.28,11232.56,10-12-2024,upi,Shipped,calcutta
+ORD20040,CUST2037,resistance bands,sports,6,2368.9,14213.4,27.08.2024,debit card,shipped,madras
+ORD20041,CUST2108,football,sports,6,5869.89,35219.34,05-10-2024,COD,cancelled,bangalore
+ORD20042,CUST2054,travel guide,book,2,839.45,1678.9,21-07-2024,netbanking,In Transit,pune
+ORD20043,CUST2077,casual shorts,clothing,-5,-4509.9,22549.5,16.07.2024,UPI,returned,delhi
+ORD20044,CUST2052,yoga mat,sports,2,5473,10946,10-07-2024,COD,Shipped,jaipur
+ORD20045,CUST2038,track pants,cloths,-1,-3026.14,3026.14,10-12-2024,debit card,Canceled,hyderabad
+ORD20046,CUST2107,nail polish set,beuty,6,5505.54,33033.24,12-26-2024,Cash on Delivery,Delivered,new delhi
+ORD20047,CUST2088,toy train,toys,1,583.4,583.4,28-10-2024,debit card,Shipped,chennai
+ORD20048,CUST2044,football,sports,5,3136.76,15683.8,07.09.2024,credit card,pending,bangalore
+ORD20049,CUST2177,building kit,toys,5,2546.72,12733.6,19.09.2024,debit card,Cancelled,hyderabad
+ORD20050,CUST2037,kids storybook,books,1,239.52,239.52,03-10-2024,Debit Card,In Transit,hyderabad
+ORD20051,CUST2019,sunscreen,beauty,3,3278.09,9834.27,08-08-2024,Credit Card,unknown,kolkata
+ORD20052,CUST2179,power bank,electronics,6,3521.84,21131.04,22-07-2024,UPI,In Transit,unknown
+ORD20053,CUST2097,kids storybook,books,1,3493.96,3493.96,09-05-2024,COD,Canceled,delhi 
+ORD20054,CUST2050,track pants,clothing,4,1041.05,4164.2,22.07.2024,CREDIT CARD,Returned,chennai
+ORD20055,CUST2097,yoga mat,sport,2,5184.68,10369.36,24-09-2024,credit card,In Transit,unknown
+ORD20056,CUST2010,resistance bands,sports,5,4426.47,22132.35,15-07-2024,Credit Card,Pending,bangalore
+ORD20057,CUST2169,rc helicopter,toys,2,867.12,1734.24,01-11-2024,upi,DELIVERED,unknown
+ORD20058,CUST2097,water bottle sport,sports,1,4614.86,4614.86,09-11-2024,upi,DELIVERED,jaipur
+ORD20059,CUST2171,nail polish set,beauty,5,3429.53,17147.65,25-10-2024,CREDIT CARD,delivered,jaipur
+ORD20060,CUST2051,sunscreen,beauty,5,5508.3,27541.5,N/A,Credit Card,DELIVERED,chennai
+ORD20061,CUST2085,polo shirt,clothing,1,383.55,383.55,24.08.2024,netbanking,Shipped,jaipur
+ORD20062,CUST2114,wireless mouse,electronic,2,1977.84,3955.68,15-08-2024,Net Banking,In Transit,jaipur
+ORD20063,CUST2070,toy train,toys,1,812.28,812.28,18-07-2024,CREDIT CARD,Pending,pune
+ORD20064,CUST2162,hdmi cable,electronics,6,3383.3,20299.8,05-11-2024,netbanking,shipped,delhi 
+ORD20065,CUST2084,resistance bands,sports,4,3509.53,14038.12,08-30-2024,Net Banking,DELIVERED,bengaluru
+ORD20066,CUST2113,mystery novel,books,5,3825.2,19126,28-08-2024,Credit Card,DELIVERED,jaipur
+ORD20067,CUST2083,toy train,toys,4,5825.47,23301.88,09-29-2024,debit card,cancelled,kolkata
+ORD20068,CUST2087,polo shirt,cloths,5,1163.83,5819.15,29-08-2024,upi,In Transit,jaipur
+ORD20069,CUST2165,resistance bands,sports,2,4626.71,9253.42,10-07-2024,UPI,Shipped,pune
+ORD20070,CUST2064,skipping rope,sports,1,4416.8,4416.8,05.08.2024,upi,In Transit,madras
+ORD20071,CUST2016,stuffed animal,toys,6,888.61,5331.66,19-11-2024,unknown,Canceled,delhi
+ORD20072,CUST2004,wall clock,home and kitchen,6,5855.78,35134.68,04-11-2024,Debit Card,Canceled,jaipur
+ORD20073,CUST2105,sweater,clothing,5,3513.34,17566.7,13.10.2024,netbanking,pending,hyderabad
+ORD20074,CUST2045,mystery novel,book,2,5328.84,10657.68,02-10-2024,COD,Canceled,delhi
+ORD20075,CUST2070,recipe book,book,3,4219.37,12658.11,02.12.2024,Cash on Delivery,pending,bangalore
+ORD20076,CUST2033,nail polish set,beauty,2,3720.86,7441.72,21.11.2024,netbanking,Returned,pune
+ORD20077,CUST2064,table lamp,home & kitchen,1,2895.85,2895.85,08-29-2024,UPI,returned,kolkata
+ORD20078,CUST2065,resistance bands,sports,4,2312.09,9248.36,17-11-2024,Credit Card,Returned,hyderabad
+ORD20079,CUST2145,kids storybook,books,3,2265.17,6795.51,unknown,netbanking,cancelled,jaipur
+ORD20080,CUST2123,toy train,toy,6,789.07,4734.42,19-07-2024,Debit Card,Canceled,calcutta
+ORD20081,CUST2050,hdmi cable,electronics,1,1529.24,1529.24,09-09-2024,debit card,returned,unknown
+ORD20082,CUST2018,air fryer,home & kitchen,5,3248.89,16244.45,12-07-2024,CREDIT CARD,Pending,delhi 
+ORD20083,CUST2122,travel guide,books,5,373.86,1869.3,22.08.2024,CREDIT CARD,delivered,bengaluru
+ORD20084,CUST2078,stuffed animal,toys,4,3858.58,15434.32,14-08-2024,upi,Shipped,jaipur
+ORD20085,CUST2161,rain jacket,clothing,3,1979.83,5939.49,15.09.2024,CREDIT CARD,Pending,chennai
+ORD20086,CUST2069,body lotion,beuty,-3,-3063.03,9189.09,20.08.2024,,Shipped,pune
+ORD20087,CUST2105,face mask pack,beauty,1,155.6,155.6,03-10-2024,UPI,cancelled,calcutta
+ORD20088,CUST2006,cutlery set,home & kitchen,5,5915.69,29578.45,21-08-2024,Cash on Delivery,returned,kolkata
+ORD20089,CUST2074,card game,toys,6,4781.69,28690.14,18.08.2024,CREDIT CARD,DELIVERED,bangalore
+ORD20090,CUST2093,power bank,electronic,3,5146.27,15438.81,25-07-2024,UPI,Pending,bangalore
+ORD20091,CUST2131,face mask pack,beauty,4,162.49,649.96,11-12-2024,Cash on Delivery,Delivered,chennai
+ORD20092,CUST2097,skipping rope,sport,2,5014.94,10029.88,25-10-2024,credit card,delivered,bangalore
+ORD20093,CUST2178,sunscreen,beauty,2,3712.84,7425.68,27-07-2024,upi,shipped,delhi
+ORD20094,CUST2007,hair serum,beauty,4,4940.48,19761.92,10-10-2024,Debit Card,delivered,new delhi
+ORD20095,CUST2062,mystery novel,books,3,3347.49,10042.47,12-31-2024,upi,DELIVERED,delhi
+ORD20096,CUST2009,water bottle sport,sports,6,1180.73,7084.38,19-10-2024,COD,Pending,calcutta
+ORD20097,CUST2073,table lamp,home & kitchen,2,4146.62,8293.24,04-12-2024,upi,Delivered,hyderabad
+ORD20098,CUST2063,polo shirt,clothing,5,4510.23,22551.15,04.07.2024,upi,Pending,new delhi
+ORD20099,CUST2057,sunscreen,beuty,4,2074.77,8299.08,28-09-2024,debit card,returned,unknown
+ORD20100,CUST2088,sunscreen,beuty,4,4668.13,18672.52,22-07-2024,CREDIT CARD,Shipped,unknown
+ORD20101,CUST2075,wall clock,home & kitchen,2,2341.61,4683.22,07-29-2024,UPI,Returned,mumbai
+ORD20102,CUST2170,football,sport,3,1994.09,5982.27,09-16-2024,Cash on Delivery,Pending,bangalore
+ORD20103,CUST2081,recipe book,book,5,3715.57,18577.85,08-08-2024,Credit Card,Canceled,delhi
+ORD20104,CUST2135,wireless mouse,electronics,3,2157.88,6473.64,03-10-2024,CREDIT CARD,DELIVERED,delhi 
+ORD20105,CUST2150,track pants,clothing,1,4164.49,4164.49,09-04-2024,unknown,delivered,kolkata
+ORD20106,CUST2132,bed sheet set,home and kitchen,6,4306.93,25841.58,17-07-2024,CREDIT CARD,shipped,hyderabad
+ORD20107,CUST2012,football,sport,4,2095.27,8381.08,12.12.2024,COD,shipped,jaipur
+ORD20108,CUST2130,hdmi cable,electronic,1,4832.98,4832.98,26-08-2024,debit card,Canceled,pune
+ORD20109,CUST2091,skipping rope,sports,6,5836.4,35018.4,01.09.2024,UPI,Pending,kolkata
+ORD20110,CUST2122,hdmi cable,electronics ,2,2012.16,4024.32,19-10-2024,UPI,delivered,delhi 
+ORD20111,CUST2042,smart plug,electronic,4,4153.1,16612.4,07-23-2024,CREDIT CARD,delivered,kolkata
+ORD20112,CUST2060,smart plug,electronics,4,4345.03,17380.12,20-11-2024,UPI,Delivered,hyderabad
+ORD20113,CUST2129,stuffed animal,toy,1,5627.01,5627.01,14-11-2024,Cash on Delivery,shipped,hyderabad
+ORD20114,CUST2042,rain jacket,clothing,1,397.95,397.95,unknown,,Returned,mumbai
+ORD20115,CUST2117,stuffed animal,toy,6,460.9,2765.4,01.09.2024,upi,Cancelled,bombay
+ORD20116,CUST2131,resistance bands,sports,1,2503.61,2503.61,21.09.2024,CREDIT CARD,DELIVERED,pune
+ORD20117,CUST2086,travel guide,books,1,5224.6,5224.6,07-31-2024,Credit Card,cancelled,chennai
+ORD20118,CUST2057,table lamp, home & kitchen,1,2055.94,2055.94,25-10-2024,netbanking,Canceled,bangalore
+ORD20119,CUST2029,wireless mouse,electronics ,3,726,2178,10.07.2024,CREDIT CARD,Pending,pune
+ORD20120,CUST2103,bluetooth headset,electronic,2,1525.39,3050.78,01-11-2024,Cash on Delivery,shipped,mumbai
+ORD20121,CUST2048,polo shirt,clothing,5,4842.66,24213.3,10.07.2024,UPI,Shipped,chennai
+ORD20122,CUST2140,resistance bands,sports,3,3719.54,11158.62,15-07-2024,netbanking,Delivered,pune
+ORD20123,CUST2178,resistance bands,sport,1,2319.36,2319.36,18-08-2024,credit card,In Transit,chennai
+ORD20124,CUST2084,track pants,cloths,3,2763.13,8289.39,30-10-2024,UPI,Delivered,jaipur
+ORD20125,CUST2046,yoga mat,sport,4,5808.13,23232.52,25-07-2024,Net Banking,Cancelled,calcutta
+ORD20126,CUST2104,air fryer,home & kitchen,1,107,107,unknown,credit card,cancelled,chennai
+ORD20127,CUST2061,hair serum,beauty,3,4165.67,12497.01,01-12-2024,Cash on Delivery,unknown,hyderabad
+ORD20128,CUST2107,stuffed animal,toys,2,1842.99,3685.98,07-06-2024,Debit Card,Returned,hyderabad
+ORD20129,CUST2162,stuffed animal,toys,5,1724.59,8622.95,26.11.2024,Net Banking,unknown,bombay
+ORD20130,CUST2026,football,sports,5,3549.65,17748.25,17.08.2024,netbanking,pending,bombay
+ORD20131,CUST2133,building kit,toys,1,566.95,566.95,16-08-2024,netbanking,delivered,kolkata
+ORD20132,CUST2048,power bank,electronic,1,5702.68,5702.68,23.12.2024,netbanking,Canceled,mumbai
+ORD20133,CUST2151,yoga mat,sport,-4,-1379.2,5516.8,29-10-2024,COD,pending,hyderabad
+ORD20134,CUST2175,resistance bands,sports,1,2330.49,2330.49,15-08-2024,Cash on Delivery,DELIVERED,delhi 
+ORD20135,CUST2048,table lamp,home and kitchen,1,1993.24,1993.24,22-11-2024,upi,returned,kolkata
+ORD20136,Unknown,nail polish set,beauty,4,3803.9,15215.6,08-08-2024,Debit Card,cancelled,jaipur
+ORD20137,CUST2111,rain jacket,clothes,4,1745.12,6980.48,12-10-2024,Net Banking,returned,jaipur
+ORD20138,CUST2005,face mask pack,beauty,4,3164.44,12657.76,03-08-2024,Net Banking,DELIVERED,delhi
+ORD20139,CUST2159,sunscreen,beauty,6,3920.49,23522.94,17.10.2024,upi,DELIVERED,mumbai
+ORD20140,CUST2033,travel guide,books,2,2501.19,5002.38,10-12-2024,Debit Card,cancelled,chennai
+ORD20141,CUST2119,rain jacket,clothing,3,528.23,1584.69,28.08.2024,Cash on Delivery,Pending,calcutta
+ORD20142,CUST2138,hdmi cable,electronic,6,2162.75,12976.5,18-07-2024,COD,Cancelled,delhi 
+ORD20143,CUST2007,casual shorts,clothing,3,2200.28,6600.84,03-11-2024,debit card,cancelled,hyderabad
+ORD20144,CUST2053,skipping rope,sports,2,2684.22,5368.44,09-02-2024,credit card,Cancelled,pune
+ORD20145,CUST2100,biography,books,4,569.43,2277.72,06-09-2024,Debit Card,shipped,kolkata
+ORD20146,CUST2037,hdmi cable,electronics ,2,2727.31,5454.62,10-28-2024,Credit Card,cancelled,delhi 
+ORD20147,CUST2091,bluetooth headset,electronics ,6,5774.22,34645.32,11-09-2024,CREDIT CARD,cancelled,bangalore
+ORD20148,CUST2051,hdmi cable,electronics,5,734.41,3672.05,14-12-2024,Cash on Delivery,delivered,bangalore
+ORD20149,CUST2118,track pants,clothing,6,3968.79,23812.74,30-10-2024,Cash on Delivery,Cancelled,bengaluru
+ORD20150,CUST2172,travel guide,books,2,3746.49,7492.98,16.10.2024,Cash on Delivery,cancelled,hyderabad
+ORD20151,CUST2108,sunscreen,beauty,2,1135.74,2271.48,29.08.2024,Cash on Delivery,DELIVERED,pune
+ORD20152,CUST2020,yoga mat,sports,1,2713.28,2713.28,11-03-2024,Net Banking,In Transit,bangalore
+ORD20153,CUST2034,smart plug,electronics ,4,4426.9,17707.6,11-10-2024,COD,Canceled,chennai
+ORD20153,CUST2034,water bottle sport,electronics ,1,17707.6,17707.6,11-10-2024,COD,Canceled,chennai
+ORD20154,CUST2034,skipping rope,sports,3,3491.3,10473.9,10-15-2024,debit card,cancelled,mumbai
+ORD20155,CUST2112,skipping rope,sport,3,4846.8,14540.4,04-12-2024,upi,Pending,pune
+ORD20156,CUST2092,toy train,toys,3,3650.08,10950.24,25.09.2024,CREDIT CARD,delivered,calcutta
+ORD20157,CUST2074,wall clock,home & kitchen,1,4183.55,4183.55,N/A,UPI,In Transit,delhi 
+ORD20158,Unknown,mystery novel,books,3,273.13,819.39,21-12-2024,debit card,DELIVERED,delhi
+ORD20159,CUST2058,cutlery set,home & kitchen,6,5871.01,35226.06,02-09-2024,Debit Card,Pending,delhi 
+ORD20160,CUST2030,bluetooth headset,clothing,2,10323.08,20646.16,14-08-2024,Debit Card,Delivered,jaipur
+ORD20160,CUST2030,rain jacket,clothing,4,5161.54,20646.16,14-08-2024,Debit Card,Delivered,jaipur
+ORD20161,CUST2033,wireless mouse,electronics ,4,4899.56,19598.24,09-27-2024,COD,pending,bangalore
+ORD20162,CUST2021,biography,books,3,5009.54,15028.62,unknown,Credit Card,Shipped,kolkata
+ORD20163,CUST2023,card game,toys,1,4251.95,4251.95,21-12-2024,upi,returned,kolkata
+ORD20164,CUST2060,wireless mouse,electronic,2,3921.39,7842.78,07-28-2024,netbanking,pending,jaipur
+ORD20165,CUST2080,recipe book,books,1,2432.1,2432.1,N/A,upi,In Transit,mumbai
+ORD20166,CUST2103,nail polish set,beuty,3,2543.18,7629.54,20-09-2024,Credit Card,cancelled,hyderabad
+ORD20167,CUST2001,hdmi cable,electronic,2,1816.21,3632.42,06-08-2024,Debit Card,returned,hyderabad
+ORD20168,CUST2174,skipping rope,sports,2,4033.98,8067.96,08-31-2024,Cash on Delivery,shipped,chennai
+ORD20169,CUST2074,smart plug,electronics,1,5840.35,5840.35,16-08-2024,COD,In Transit,jaipur
+ORD20170,CUST2069,stuffed animal,toys,2,2381.7,4763.4,25-10-2024,upi,Returned,kolkata
+ORD20171,CUST2154,water bottle sport,sports,3,5679.91,17039.73,07-06-2024,Net Banking,shipped,madras
+ORD20172,CUST2034,recipe book,books,6,5654.73,33928.38,10-29-2024,upi,Cancelled,kolkata
+ORD20173,CUST2112,bed sheet set,home & kitchen,4,5089.93,20359.72,03-07-2024,Debit Card,Cancelled,hyderabad
+ORD20174,CUST2059,cutlery set,home & kitchen,5,1136.78,5683.9,11-07-2024,CREDIT CARD,Pending,pune
+ORD20175,Unknown,water bottle sport,sport,3,5354.56,16063.68,03-12-2024,credit card,unknown,mumbai
+ORD20176,CUST2180,travel guide,books,6,2803.77,16822.62,16-07-2024,Credit Card,Shipped,kolkata
+ORD20177,CUST2104,face mask pack,beuty,6,3161.51,18969.06,24-11-2024,netbanking,delivered,calcutta
+ORD20178,CUST2008,resistance bands,sports,5,5450.79,27253.95,27.09.2024,CREDIT CARD,Returned,jaipur
+ORD20179,CUST2056,travel guide,book,6,5104.15,30624.9,19.10.2024,unknown,pending,delhi
+ORD20180,CUST2019,bluetooth headset,electronics,1,4127.34,4127.34,23-11-2024,netbanking,Shipped,hyderabad
+ORD20181,CUST2102,biography,books,3,5485.39,16456.17,28-08-2024,credit card,pending,pune
+ORD20182,CUST2143,recipe book,books,2,3233.42,6466.84,27-08-2024,COD,pending,pune
+ORD20183,CUST2120,recipe book,books,6,3305.63,19833.78,26-12-2024,CREDIT CARD,In Transit,pune
+ORD20184,CUST2121,skipping rope,sport,6,2399.74,14398.44,16-09-2024,Net Banking,shipped,madras
+ORD20185,CUST2037,polo shirt,clothing,6,5123.38,30740.28,12-28-2024,Debit Card,Shipped,chennai
+ORD20186,CUST2032,cutlery set, home & kitchen,5,5816.43,29082.15,07-19-2024,Debit Card,Pending,mumbai
+ORD20187,CUST2040,kids storybook,books,6,295.45,1772.7,27-09-2024,credit card,Cancelled,mumbai
+ORD20188,CUST2068,water bottle sport,sports,3,2087.94,6263.82,26.10.2024,debit card,Shipped,bengaluru
+ORD20189,CUST2149,smart plug,electronics,4,2485.32,9941.28,12-23-2024,debit card,In Transit,pune
+ORD20190,CUST2059,building kit,toys,6,762.4,4574.4,12-12-2024,Net Banking,Pending,madras
+ORD20191,CUST2021,yoga mat,sports,6,260.42,1562.52,02-12-2024,CREDIT CARD,pending,new delhi
+ORD20192,CUST2145,recipe book,books,4,363.93,1455.72,12-03-2024,netbanking,pending,bombay
+ORD20193,CUST2180,mystery novel,book,4,2558.62,10234.48,01-10-2024,Credit Card,Cancelled,bombay
+ORD20194,CUST2129,nail polish set,beauty,4,777.29,3109.16,16.08.2024,Net Banking,delivered,kolkata
+ORD20195,CUST2126,smart plug,electronics ,2,5051.46,10102.92,07-31-2024,Cash on Delivery,Delivered,delhi
+ORD20196,CUST2058,sunscreen,beauty,2,3111.56,6223.12,12-12-2024,credit card,DELIVERED,pune
+ORD20197,CUST2178,yoga mat,sports,2,3340.17,6680.34,15.08.2024,Net Banking,returned,madras
+ORD20198,CUST2072,wall clock,home & kitchen,5,2057.64,10288.2,11-11-2024,UPI,shipped,unknown
+ORD20199,CUST2008,wall clock,home & kitchen,4,1541.45,6165.8,12-11-2024,COD,Shipped,hyderabad
+ORD20200,CUST2050,polo shirt,clothing,1,4891.73,4891.73,02.08.2024,CREDIT CARD,DELIVERED,pune
+ORD20201,CUST2022,bed sheet set,home & kitchen,6,1886.57,11319.42,13-07-2024,COD,delivered,new delhi
+ORD20202,CUST2004,rc helicopter,toys,2,2526.05,5052.1,06-12-2024,unknown,pending,new delhi
+ORD20203,CUST2038,cutlery set, home & kitchen,3,892.22,2676.66,07.10.2024,upi,unknown,jaipur
+ORD20204,CUST2004,hair serum,beauty,6,3165.62,18993.72,01-11-2024,Debit Card,Canceled,jaipur
+ORD20205,CUST2061,power bank,electronics,4,255.13,1020.52,10-09-2024,COD,Shipped,pune
+ORD20206,CUST2025,building kit,toys,6,4158.81,24952.86,12-17-2024,Net Banking,In Transit,bangalore
+ORD20207,CUST2074,hdmi cable,electronic,1,377.19,377.19,07-09-2024,Debit Card,cancelled,calcutta
+ORD20208,CUST2095,stuffed animal,toys,4,4921.05,19684.2,13-12-2024,COD,Shipped,unknown
+ORD20209,CUST2024,face mask pack,beuty,2,318.97,637.94,04-10-2024,Credit Card,delivered,bangalore
+ORD20210,CUST2068,stuffed animal,toys,5,2452.25,12261.25,07-08-2024,Credit Card,Shipped,hyderabad
+ORD20211,CUST2014,toy train,toys,5,3533.4,17667,10-03-2024,debit card,DELIVERED,pune
+ORD20212,CUST2161,biography,books,3,4552.76,13658.28,04-11-2024,Cash on Delivery,pending,mumbai
+ORD20213,CUST2005,table lamp,home & kitchen,5,5587.25,27936.25,06.10.2024,COD,In Transit,hyderabad
+ORD20214,CUST2117,rc helicopter,toy,3,1292.92,3878.76,06-11-2024,Credit Card,shipped,new delhi
+ORD20215,CUST2143,smart plug,electronics ,4,2791.27,11165.08,14-11-2024,debit card,Cancelled,kolkata
+ORD20216,CUST2141,yoga mat,sport,6,2340.16,14040.96,21.10.2024,Credit Card,Delivered,hyderabad
+ORD20217,CUST2157,water bottle sport,sports,2,5075.78,10151.56,28-12-2024,Net Banking,Cancelled,new delhi
+ORD20218,CUST2168,mystery novel,books,3,341.13,1023.39,09-12-2024,Debit Card,Delivered,madras
+ORD20219,CUST2122,bed sheet set, home & kitchen,5,3941.81,19709.05,23.12.2024,UPI,Shipped,calcutta
+ORD20220,CUST2071,water bottle sport,sports,2,680.2,1360.4,N/A,Cash on Delivery,DELIVERED,hyderabad
+ORD20220,CUST2071,water bottle sport,sports,4,340.1,1360.4,04.07.2024,Cash on Delivery,DELIVERED,hyderabad
+ORD20221,CUST2076,yoga mat,sports,6,5054.18,30325.08,15-09-2024,Net Banking,Delivered,madras
+ORD20222,CUST2075,mystery novel,books,6,2948.31,17689.86,08-23-2024,upi,unknown,pune
+ORD20223,CUST2041,body lotion,beauty,6,3714.24,22285.44,12-09-2024,credit card,Returned,delhi
+ORD20224,CUST2069,card game,toys,5,1348.34,6741.7,25.09.2024,UPI,Cancelled,madras
+ORD20225,CUST2104,smart plug,electronics,6,5487.98,32927.88,09-17-2024,upi,pending,pune
+ORD20226,CUST2016,nail polish set,beauty,3,4450.89,13352.67,25.11.2024,netbanking,Canceled,madras
+ORD20227,CUST2045,power bank,electronics,6,2768.92,16613.52,25-09-2024,UPI,Pending,bangalore
+ORD20228,CUST2124,building kit,toys,3,2716.42,8149.26,11-08-2024,COD,cancelled,bengaluru
+ORD20229,CUST2060,hdmi cable,electronic,3,4488.26,13464.78,26-09-2024,COD,Returned,mumbai
+ORD20230,CUST2037,hdmi cable,electronics ,3,4365.99,13097.97,09.08.2024,credit card,Canceled,delhi
+ORD20231,CUST2028,bed sheet set,home and kitchen,4,789.13,3156.52,28-10-2024,netbanking,Cancelled,bengaluru
+ORD20232,CUST2145,bluetooth headset,electronic,1,1487.26,1487.26,11-09-2024,Debit Card,shipped,hyderabad
+ORD20233,CUST2163,travel guide,book,5,350.82,1754.1,09-08-2024,Net Banking,pending,pune
+ORD20234,CUST2037,track pants,cloths,1,1933.72,1933.72,25-10-2024,netbanking,Pending,bengaluru
+ORD20235,CUST2060,toy train,toy,1,3679.83,3679.83,07.10.2024,UPI,cancelled,chennai
+ORD20236,CUST2159,smart plug,electronics ,3,2714.06,8142.18,22-08-2024,debit card,Returned,madras
+ORD20237,CUST2164,casual shorts,cloths,4,3661.23,14644.92,21.07.2024,UPI,Cancelled,hyderabad
+ORD20238,CUST2093,track pants,clothing,1,3217.7,3217.7,14-09-2024,Cash on Delivery,Pending,pune
+ORD20239,CUST2117,building kit,toys,4,2091.91,8367.64,13-10-2024,CREDIT CARD,Cancelled,jaipur
+ORD20240,CUST2098,biography,books,6,2230.65,13383.9,11-12-2024,upi,Returned,hyderabad
+ORD20241,CUST2012,water bottle sport,sport,1,1820.62,1820.62,09-18-2024,credit card,returned,chennai
+ORD20242,CUST2040,wall clock,home & kitchen,6,3373.95,20243.7,04-08-2024,CREDIT CARD,returned,pune
+ORD20243,CUST2021,stuffed animal,toys,5,1484.25,7421.25,17-07-2024,Debit Card,unknown,delhi
+ORD20244,CUST2113,travel guide,books,-2,-4008,8016,25-12-2024,UPI,Shipped,hyderabad
+ORD20245,CUST2130,biography,books,4,3753,15012,02-08-2024,Debit Card,delivered,hyderabad
+ORD20246,CUST2173,hdmi cable,electronic,2,3612.58,7225.16,11-30-2024,Cash on Delivery,Pending,pune
+ORD20247,CUST2096,power bank,electronics,4,5267.07,21068.28,23-07-2024,credit card,returned,pune
+ORD20248,CUST2049,hdmi cable,electronic,2,5221.25,10442.5,04-09-2024,upi,DELIVERED,jaipur
+ORD20249,CUST2018,rain jacket,clothing,6,4366.36,26198.16,28-08-2024,COD,Cancelled,pune
+ORD20250,CUST2056,water bottle sport,sports,3,4085.88,12257.64,14-10-2024,COD,Delivered,chennai
+ORD20251,CUST2154,casual shorts,clothing,4,3089.89,12359.56,19-11-2024,UPI,shipped,hyderabad
+ORD20252,CUST2165,building kit,toys,2,1578.2,3156.4,31.07.2024,Debit Card,Pending,chennai
+ORD20253,Unknown,sweater,clothing,3,2052.5,6157.5,unknown,Net Banking,Pending,bangalore
+ORD20254,CUST2077,nail polish set,beauty,4,246.62,986.48,11-27-2024,Credit Card,Shipped,jaipur
+ORD20255,CUST2078,hdmi cable,electronic,3,200.63,601.89,11-28-2024,debit card,DELIVERED,delhi 
+ORD20256,CUST2132,power bank,electronics ,4,2896.83,11587.32,20-11-2024,Debit Card,Returned,mumbai
+ORD20257,CUST2085,water bottle sport,sport,1,2244.7,2244.7,22.10.2024,netbanking,pending,jaipur
+ORD20258,CUST2155,building kit,toys,4,915.49,3661.96,09-05-2024,Net Banking,Delivered,chennai
+ORD20259,CUST2150,body lotion,beauty,3,2831.64,8494.92,07-05-2024,debit card,In Transit,delhi
+ORD20260,CUST2114,bed sheet set,home and kitchen,2,5501.18,11002.36,24-08-2024,unknown,Delivered,jaipur
+ORD20261,CUST2043,biography,books,6,5169.07,31014.42,17-08-2024,Net Banking,Shipped,jaipur
+ORD20262,CUST2074,football,sports,3,5664.87,16994.61,23.12.2024,Cash on Delivery,Returned,jaipur
+ORD20263,CUST2015,rc helicopter,toys,6,4611.32,27667.92,13-10-2024,Debit Card,unknown,pune
+ORD20264,CUST2123,face mask pack,beuty,5,105.7,528.5,03-11-2024,upi,DELIVERED,delhi 
+ORD20265,CUST2021,wireless mouse,electronics ,2,4459.14,8918.28,11-12-2024,netbanking,Pending,pune
+ORD20266,CUST2114,hair serum,beauty,4,2707.32,10829.28,08-07-2024,Credit Card,Cancelled,jaipur
+ORD20267,CUST2003,cutlery set, home & kitchen,5,5004.51,25022.55,22-12-2024,Debit Card,In Transit,bombay
+ORD20268,CUST2027,hair serum,beauty,1,4361.44,4361.44,29-09-2024,Cash on Delivery,Shipped,madras
+ORD20269,CUST2004,sweater,clothing,2,2885.49,5770.98,11-10-2024,credit card,shipped,hyderabad
+ORD20270,CUST2096,water bottle sport,sports,1,2025.73,2025.73,18-07-2024,Credit Card,pending,chennai
+ORD20271,CUST2048,building kit,toy,2,678.31,1356.62,20-07-2024,Debit Card,Canceled,jaipur
+ORD20272,CUST2175,recipe book,books,2,2390.37,4780.74,07-06-2024,unknown,Pending,bangalore
+ORD20273,CUST2147,body lotion,beuty,5,2664.44,13322.2,24-10-2024,Net Banking,DELIVERED,unknown
+ORD20274,CUST2015,air fryer,home & kitchen,4,245.28,981.12,19-12-2024,upi,In Transit,pune
+ORD20275,CUST2064,casual shorts,clothing,6,3008.71,18052.26,18-10-2024,credit card,Returned,chennai
+ORD20276,CUST2071,polo shirt,clothing,2,2747.24,5494.48,06-08-2024,upi,delivered,kolkata
+ORD20277,CUST2021,kids storybook,books,3,4708.95,14126.85,10-08-2024,UPI,returned,hyderabad
+ORD20278,CUST2067,smart plug,electronics ,2,1860.86,3721.72,12-05-2024,netbanking,returned,kolkata
+ORD20279,CUST2148,nail polish set,beuty,5,2803.07,14015.35,07-19-2024,Net Banking,pending,hyderabad
+ORD20280,CUST2106,nail polish set,beauty,6,4273.68,25642.08,29.11.2024,UPI,Shipped,pune
+ORD20280,CUST2106,nail polish set,beauty,8,3205.26,25642.08,29.11.2024,UPI,Shipped,pune
+ORD20281,CUST2130,wall clock,home and kitchen,4,561.77,2247.08,12-26-2024,upi,Cancelled,hyderabad
+ORD20282,CUST2004,smart plug,electronics ,3,1691.84,5075.52,03-07-2024,COD,Returned,jaipur
+ORD20283,CUST2021,polo shirt,clothing,1,5695.57,5695.57,26-11-2024,Debit Card,In Transit,hyderabad
+ORD20284,CUST2179,polo shirt,clothing,1,5087.28,5087.28,09-08-2024,Cash on Delivery,DELIVERED,pune
+ORD20285,CUST2143,hair serum,beauty,3,710.85,2132.55,21-08-2024,CREDIT CARD,Delivered,mumbai
+ORD20286,CUST2180,bluetooth headset,electronic,6,4231.69,25390.14,13-09-2024,CREDIT CARD,cancelled,madras
+ORD20287,CUST2129,recipe book,book,6,2304.98,13829.88,18.11.2024,credit card,cancelled,kolkata
+ORD20288,CUST2036,kids storybook,books,6,3766.67,22600.02,26-12-2024,credit card,pending,bangalore
+ORD20289,CUST2086,hair serum,beauty,3,4202.69,12608.07,N/A,Cash on Delivery,pending,chennai
+ORD20290,CUST2173,polo shirt,cloths,2,1039.59,2079.18,29.10.2024,Debit Card,Delivered,calcutta
+ORD20291,CUST2043,biography,book,5,1949.67,9748.35,01-08-2024,credit card,Delivered,kolkata
+ORD20292,CUST2051,air fryer,home and kitchen,5,2165.7,10828.5,15-12-2024,credit card,delivered,pune
+ORD20293,CUST2089,building kit,toys,6,220.05,1320.3,09-08-2024,upi,Shipped,jaipur
+ORD20294,CUST2097,resistance bands,sports,2,2045.72,4091.44,08-10-2024,Cash on Delivery,cancelled,unknown
+ORD20295,CUST2144,casual shorts,cloths,5,2903.2,14516,28-10-2024,Cash on Delivery,Pending,unknown
+ORD20296,CUST2154,track pants,clothing,4,2359.87,9439.48,02.10.2024,credit card,pending,chennai
+ORD20297,CUST2025,hair serum,beuty,5,2583.71,12918.55,23-09-2024,Net Banking,cancelled,hyderabad
+ORD20298,CUST2048,travel guide,books,2,5674.06,11348.12,11-17-2024,Cash on Delivery,Canceled,pune
+ORD20299,CUST2157,power bank,electronics,4,4635.32,18541.28,16-09-2024,credit card,returned,hyderabad
+ORD20300,CUST2136,sunscreen,beauty,4,3738.26,14953.04,10-09-2024,Cash on Delivery,unknown,jaipur
+ORD20301,CUST2178,football,sports,6,3074.55,18447.3,28-07-2024,unknown,DELIVERED,bombay
+ORD20302,CUST2084,water bottle sport,sport,4,993.65,3974.6,11-08-2024,netbanking,In Transit,mumbai
+ORD20303,CUST2023,table lamp, home & kitchen,6,1436.5,8619,20-10-2024,upi,shipped,jaipur
+ORD20304,CUST2062,hair serum,beuty,1,340.59,340.59,26-10-2024,UPI,Pending,kolkata
+ORD20305,CUST2125,sweater,cloths,2,4428.68,8857.36,16-09-2024,Net Banking,Delivered,mumbai
+ORD20306,CUST2018,air fryer,home and kitchen,3,177.91,533.73,12-05-2024,Credit Card,Returned,bangalore
+ORD20307,CUST2083,smart plug,electronic,5,1543.28,7716.4,30.11.2024,UPI,Canceled,bangalore
+ORD20307,CUST2083,smart plug,electronic,5,1543.28,7716.4,30.11.2024,UPI,Canceled,bangalore
+ORD20308,CUST2071,rain jacket,cloths,3,196.41,589.23,06.12.2024,netbanking,delivered,mumbai
+ORD20309,CUST2099,polo shirt,clothing,5,4981.42,24907.1,N/A,upi,shipped,pune
+ORD20310,CUST2075,travel guide,books,4,5192.92,20771.68,11-12-2024,Debit Card,Returned,hyderabad
+ORD20311,CUST2053,sunscreen,beuty,2,1247.74,2495.48,20-07-2024,CREDIT CARD,Canceled,madras
+ORD20312,CUST2128,hair serum,beauty,2,1019.34,2038.68,17-11-2024,Debit Card,Canceled,pune
+ORD20313,CUST2054,bed sheet set,home & kitchen,-1,-1158.14,1158.14,31-10-2024,Net Banking,Canceled,bengaluru
+ORD20314,CUST2071,body lotion,beauty,4,3577.22,14308.88,08-11-2024,debit card,Delivered,mumbai
+ORD20315,CUST2125,track pants,cloths,5,2445.3,12226.5,18-09-2024,upi,In Transit,chennai
+ORD20316,CUST2020,wall clock,home & kitchen,3,2624.74,7874.22,07-03-2024,COD,cancelled,delhi 
+ORD20317,CUST2068,bluetooth headset,electronic,2,5110.74,10221.48,18-08-2024,Cash on Delivery,Delivered,chennai
+ORD20318,CUST2080,skipping rope,sports,6,1462.81,8776.86,05-07-2024,netbanking,Cancelled,pune
+ORD20319,CUST2176,nail polish set,beauty,1,3808.6,3808.6,15-10-2024,Net Banking,In Transit,mumbai
+ORD20320,CUST2118,stuffed animal,toys,6,4476.2,26857.2,unknown,unknown,Returned,kolkata
+ORD20321,CUST2166,table lamp,home & kitchen,3,4535.77,13607.31,06-12-2024,netbanking,In Transit,bangalore
+ORD20322,CUST2097,wall clock,home & kitchen,2,2741.2,5482.4,19-11-2024,debit card,Cancelled,pune
+ORD20323,CUST2033,toy train,toy,1,3745.18,3745.18,11-25-2024,CREDIT CARD,Shipped,jaipur
+ORD20324,CUST2013,skipping rope,sport,3,5982.29,17946.87,04-10-2024,Cash on Delivery,unknown,bangalore
+ORD20325,CUST2175,sweater,clothing,5,4898.95,24494.75,27.10.2024,credit card,Returned,mumbai
+ORD20326,CUST2095,skipping rope,sports,2,5330.27,10660.54,18.10.2024,debit card,In Transit,hyderabad
+ORD20327,CUST2171,body lotion,beauty,6,3114.65,18687.9,09-20-2024,UPI,shipped,chennai
+ORD20328,CUST2007,body lotion,beauty,3,436.19,1308.57,17-09-2024,Debit Card,In Transit,chennai
+ORD20329,CUST2005,smart plug,electronics,8,178.1625,1425.3,20-09-2024,unknown,Returned,chennai
+ORD20329,CUST2005,smart plug,electronics,6,237.55,1425.3,20-09-2024,unknown,Returned,chennai
+ORD20330,CUST2022,bed sheet set,home & kitchen,5,4640.68,23203.4,11-10-2024,netbanking,Returned,hyderabad
+ORD20331,CUST2145,sweater,cloths,3,1413.51,4240.53,25.10.2024,Net Banking,cancelled,mumbai
+ORD20332,CUST2157,body lotion,beauty,6,5630.92,33785.52,14-11-2024,Credit Card,shipped,jaipur
+ORD20333,CUST2016,smart plug,electronics,6,836.83,5020.98,04-10-2024,CREDIT CARD,In Transit,hyderabad
+ORD20334,CUST2149,cutlery set,home and kitchen,6,1776.32,10657.92,17-08-2024,unknown,delivered,mumbai
+ORD20335,CUST2013,biography,book,4,4500.16,18000.64,30-10-2024,credit card,In Transit,unknown
+ORD20336,CUST2174,power bank,electronics,1,5669.39,5669.39,21-07-2024,Debit Card,cancelled,mumbai
+ORD20337,CUST2058,power bank,electronic,5,2258.65,11293.25,10-10-2024,CREDIT CARD,delivered,chennai
+ORD20338,CUST2105,kids storybook,book,5,3039.75,15198.75,10-13-2024,debit card,Shipped,jaipur
+ORD20339,CUST2037,body lotion,beauty,1,3008.04,3008.04,24-09-2024,netbanking,Canceled,hyderabad
+ORD20340,CUST2115,bed sheet set,home and kitchen,3,3782.55,11347.65,24.09.2024,upi,returned,bangalore
+ORD20341,CUST2167,power bank,electronics,4,3205.94,12823.76,08-01-2024,CREDIT CARD,shipped,madras
+ORD20342,CUST2059,toy train,toys,4,912.57,3650.28,24-11-2024,credit card,cancelled,delhi 
+ORD20343,CUST2111,wireless mouse,electronics,1,2000.43,2000.43,19-07-2024,UPI,Delivered,calcutta
+ORD20344,CUST2170,biography,books,5,237.2,1186,24-12-2024,COD,In Transit,mumbai
+ORD20345,CUST2071,cutlery set,home & kitchen,5,5866.25,29331.25,10-08-2024,Net Banking,delivered,delhi
+ORD20346,CUST2008,polo shirt,clothing,6,2898.58,17391.48,07-19-2024,Credit Card,Delivered,bangalore
+ORD20347,CUST2032,travel guide,book,4,3819.72,15278.88,23.09.2024,Net Banking,cancelled,hyderabad
+ORD20348,CUST2027,track pants,clothing,6,3023.6,18141.6,21-08-2024,Debit Card,returned,bangalore
+ORD20349,CUST2072,track pants,clothing,2,5114.16,10228.32,11-01-2024,credit card,Returned,new delhi
+ORD20350,CUST2003,wall clock,home & kitchen,4,712.74,2850.96,02.08.2024,upi,In Transit,hyderabad
