@@ -1,0 +1,5 @@
+# Dependencies for the Week 1 E-Commerce Data Analysis project
+# Primary data-cleaning and visualization tools:
+# - Microsoft Excel
+# - Microsoft Power BI
+# These applications are installed separately.
